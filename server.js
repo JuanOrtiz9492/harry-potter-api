@@ -35,22 +35,30 @@ app.get(BASE_PATH + "/db", (req, res) => {
 });
 app.get(BASE_PATH + "/hechizos", (req, res) => {
   const data = readDb();
-  res.json(data);
+  res.json(data.hechizos);
 });
 app.get(BASE_PATH + "/info", (req, res) => {
   const data = readDb();
   res.json(data.info);
 });
 app.get(BASE_PATH + "/personajes", (req, res) => {
+  const { id } = req.query;
   const data = readDb();
-  res.json(
-    data.personajes.map((item) => {
-      return {
-        ...item,
-        imagen: BASE_PATH + item.imagen,
-      };
-    })
-  );
+  const parsedData = data.personajes.map((item) => {
+    return {
+      ...item,
+      imagen: BASE_PATH + item.imagen,
+    };
+  });
+  if (id) {
+    const charId = Number(id);
+    const selectedCharacter = parsedData.find(
+      (character) => character.id === charId
+    );
+    res.json(selectedCharacter);
+  } else {
+    res.json(parsedData);
+  }
 });
 app.get(BASE_PATH + "/libros", (req, res) => {
   const data = readDb();
