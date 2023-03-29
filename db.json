@@ -416,7 +416,7 @@
         "Albus Severus Potter",
         "Lily Luna Potter"
       ],
-      "imagen": "/imagenes/harry_potter.png"
+      "imagen": "/imagenes/harry_potter.webp"
     },
     {
       "id": 2,
@@ -426,7 +426,7 @@
       "casaDeHogwarts": "Gryffindor",
       "interpretado_por": "Emma Watson",
       "hijos": ["Rose Granger-Weasley", "Hugo Granger-Weasley"],
-      "imagen": "/imagenes/hermione_granger.png"
+      "imagen": "/imagenes/hermione_granger.webp"
     },
     {
       "id": 3,
@@ -436,7 +436,7 @@
       "casaDeHogwarts": "Gryffindor",
       "interpretado_por": "Rupert Grint",
       "hijos": ["Rose Granger-Weasley", "Hugo Granger-Weasley"],
-      "imagen": "/imagenes/ron_weasley.png"
+      "imagen": "/imagenes/ron_weasley.webp"
     },
     {
       "id": 4,
@@ -446,7 +446,7 @@
       "casaDeHogwarts": "Gryffindor",
       "interpretado_por": "James Phelps",
       "hijos": [],
-      "imagen": "/imagenes/fred_weasley.png"
+      "imagen": "/imagenes/fred_weasley.webp"
     },
     {
       "id": 5,
@@ -456,7 +456,7 @@
       "casaDeHogwarts": "Gryffindor",
       "interpretado_por": "Oliver Phelps",
       "hijos": [],
-      "imagen": "/imagenes/george_weasley.png"
+      "imagen": "/imagenes/george_weasley.webp"
     },
     {
       "id": 6,
@@ -466,7 +466,7 @@
       "casaDeHogwarts": "Gryffindor",
       "interpretado_por": "Domhnall Gleeson",
       "hijos": [],
-      "imagen": "/imagenes/bill_weasley.png"
+      "imagen": "/imagenes/bill_weasley.webp"
     },
     {
       "id": 7,
@@ -476,7 +476,7 @@
       "casaDeHogwarts": "Gryffindor",
       "interpretado_por": "Chris Rankin",
       "hijos": [],
-      "imagen": "/imagenes/percy_weasley.png"
+      "imagen": "/imagenes/percy_weasley.webp"
     },
     {
       "id": 8,
@@ -486,7 +486,7 @@
       "casaDeHogwarts": "Gryffindor",
       "interpretado_por": "ninguno",
       "hijos": [],
-      "imagen": "/imagenes/charlie_weasley.png"
+      "imagen": "/imagenes/charlie_weasley.webp"
     },
     {
       "id": 9,
@@ -500,7 +500,7 @@
         "Albus Severus Potter",
         "Lily Luna Potter"
       ],
-      "imagen": "/imagenes/ginny_weasley.png"
+      "imagen": "/imagenes/ginny_weasley.webp"
     },
     {
       "id": 10,
@@ -518,7 +518,7 @@
         "Charlie Weasley",
         "Ginny Weasley"
       ],
-      "imagen": "/imagenes/molly_weasley.png"
+      "imagen": "/imagenes/molly_weasley.webp"
     },
     {
       "id": 11,
@@ -536,7 +536,7 @@
         "Charlie Weasley",
         "Ginny Weasley"
       ],
-      "imagen": "/imagenes/arthur_weasley.png"
+      "imagen": "/imagenes/arthur_weasley.webp"
     },
     {
       "id": 12,
@@ -546,7 +546,7 @@
       "casaDeHogwarts": "Gryffindor",
       "interpretado_por": "Matthew Lewis",
       "hijos": [],
-      "imagen": "/imagenes/neville_longbottom.png"
+      "imagen": "/imagenes/neville_longbottom.webp"
     },
     {
       "id": 13,
@@ -556,7 +556,7 @@
       "casaDeHogwarts": "Ravenclaw",
       "interpretado_por": "Evanna Lynch",
       "hijos": [],
-      "imagen": "/imagenes/luna_lovegood.png"
+      "imagen": "/imagenes/luna_lovegood.webp"
     },
     {
       "id": 14,
@@ -566,7 +566,7 @@
       "casaDeHogwarts": "Slytherin",
       "interpretado_por": "Tom Felton",
       "hijos": ["Scorpius Malfoy"],
-      "imagen": "/imagenes/draco_malfoy.png"
+      "imagen": "/imagenes/draco_malfoy.webp"
     },
     {
       "id": 15,
@@ -576,7 +576,7 @@
       "casaDeHogwarts": "Gryffindor",
       "interpretado_por": "Richard Harris",
       "hijos": [],
-      "imagen": "/imagenes/albus_dumbledore.png"
+      "imagen": "/imagenes/albus_dumbledore.webp"
     },
     {
       "id": 16,
@@ -586,7 +586,7 @@
       "casaDeHogwarts": "Gryffindor",
       "interpretado_por": "Maggie Smith",
       "hijos": [],
-      "imagen": "/imagenes/minerva_mcgonnagall.png"
+      "imagen": "/imagenes/minerva_mcgonnagall.webp"
     },
     {
       "id": 17,
@@ -596,7 +596,7 @@
       "casaDeHogwarts": "Gryffindor",
       "interpretado_por": "David Thewils",
       "hijos": ["Ted Lupin"],
-      "imagen": "/imagenes/remus_lupin.png"
+      "imagen": "/imagenes/remus_lupin.webp"
     },
     {
       "id": 18,
@@ -606,7 +606,7 @@
       "casaDeHogwarts": "Gryffindor",
       "interpretado_por": "Robbie Coltrane",
       "hijos": [],
-      "imagen": "/imagenes/rubeus_hagrid.png"
+      "imagen": "/imagenes/rubeus_hagrid.webp"
     },
     {
       "id": 19,
@@ -616,7 +616,7 @@
       "casaDeHogwarts": "Gryffindor",
       "interpretado_por": "Gary Oldman",
       "hijos": [],
-      "imagen": "/imagenes/sirius_black.png"
+      "imagen": "/imagenes/sirius_black.webp"
     },
     {
       "id": 20,
@@ -626,7 +626,7 @@
       "casaDeHogwarts": "Slytherin",
       "interpretado_por": "Alan Rickman",
       "hijos": [],
-      "imagen": "/imagenes/severus_snape.png"
+      "imagen": "/imagenes/severus_snape.webp"
     },
     {
       "id": 21,
@@ -636,7 +636,7 @@
       "casaDeHogwarts": "Slytherin",
       "interpretado_por": "Helena Bonham Carter",
       "hijos": ["Delphi"],
-      "imagen": "/imagenes/bellatrix_lestrange.png"
+      "imagen": "/imagenes/bellatrix_lestrange.webp"
     },
     {
       "id": 22,
@@ -646,7 +646,7 @@
       "casaDeHogwarts": "Slytherin",
       "interpretado_por": "Ralph Fiennes",
       "hijos": ["Delphi"],
-      "imagen": "/imagenes/lord_voldemort.png"
+      "imagen": "/imagenes/lord_voldemort.webp"
     },
     {
       "id": 23,
@@ -656,7 +656,7 @@
       "casaDeHogwarts": "ninguna",
       "interpretado_por": "David Bradley",
       "hijos": [],
-      "imagen": "/imagenes/argus_filch.png"
+      "imagen": "/imagenes/argus_filch.webp"
     }
   ],
   "libros": [

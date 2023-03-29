@@ -17,8 +17,10 @@ app.use(cors());
 app.use(express.json());
 app.use(BASE_PATH + "/imagenes", (req, res, next) => {
   const { url } = req;
-  if (url.slice(-3) === "png") {
+  console.log(url);
+  if (url.slice(-4) === "webp") {
     const fileName = url.slice(1);
+    console.log(fileName);
     try {
       const imgPath = path.resolve(__dirname, "imagenes", fileName);
       res.sendFile(imgPath);
